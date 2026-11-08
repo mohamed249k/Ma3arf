@@ -1,0 +1,10 @@
+{
+  "name": "ma3arf",
+  "version": "3.0.0",
+  "private": true,
+  "description": "منصة مَعارِف للتعليم الإسلامي والمسابقات الموثقة",
+  "devDependencies": {
+    "@fortawesome/free-solid-svg-icons": "^7.3.1",
+    "@phosphor-icons/core": "^2.1.1"
+  }
+}
